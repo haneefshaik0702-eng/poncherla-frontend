@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body { font-family: system-ui, sans-serif; padding: 1rem; }
+.btn { padding: .5rem 1rem; border-radius: .375rem; border: 1px solid #ddd; display: inline-block; }
